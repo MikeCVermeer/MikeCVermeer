@@ -30,22 +30,20 @@ I'm a passionate **Software Engineer** with experience in **Python, PHP, C++, Re
 
 ## Featured Projects 💻
 
-### [Project 1 Title](project_1_link)
+### [Rusty-Bot](https://github.com/MikeCVermeer/Rusty-Bot)
 
-![Project 1 Screenshot](project_1_screenshot_url)
+**Rusty Bot** is a **Python-based tool designed to enhance the Rust gaming experience through real-time interaction** built with **Python, leveraging the Rust+ API**. This project demonstrates my ability to **interface with live server APIs, implement real-time data processing, and develop useful in-game automation tools**. You can check out the repository [here](https://github.com/MikeCVermeer/Rusty-Bot).
 
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
-
+<!--
 ### [Project 2 Title](project_2_link)
 
-![Project 2 Screenshot](project_2_screenshot_url)
-
 **[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
+-->
 
 ## Get in Touch 📬
 
-- **[LinkedIn]**(https://www.linkedin.com/in/mikecvermeer)
-- **[Email]**mc.vermeer@hotmail.nl
+- **[LinkedIn](https://www.linkedin.com/in/mikecvermeer)**
+- **[Email](mc.vermeer@hotmail.nl)**
 
 <!--
 **MikeCVermeer/MikeCVermeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
