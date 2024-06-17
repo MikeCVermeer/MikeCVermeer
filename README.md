@@ -1,7 +1,7 @@
 # Hi there, I'm Mike Vermeer! 👋
 ## About Me 🚀
 
-I'm a passionate **Software Engineer** with experience in **Python, PHP, C++, React.js, Django, Laravel and more**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **Software Engineer** with experience in **Python, C#, .NET, PHP, React.js, Django, Laravel and more**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **C# and .NET**
 - 🔭 Working on: **I'm currently engaged in the development of PredScout. An application design to improve the user and gameplay experience of the popular MOBA game Predecessor.**
