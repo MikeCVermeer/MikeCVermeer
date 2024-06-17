@@ -3,17 +3,18 @@
 
 I'm a passionate **Software Engineer** with experience in **Python, PHP, C++, React.js, Django, Laravel and more**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **C++**
-- 🔭 Working on: **I'm currently engaged in various side projects to enhance and expand my knowledge of C++ as well as my general understanding of programming concepts**
-- 🌍 Languages: **Programming languages: PHP, Python, C++, React.js, Django, Laravel, and more. Human languages: English and Dutch.**
+- 🌱 Currently learning: **C# and .NET**
+- 🔭 Working on: **I'm currently engaged in the development of PredScout. An application design to improve the user and gameplay experience of the popular MOBA game Predecessor.**
+- 🌍 Languages: **Programming languages: C#, Python, .NET, PHP, React.js, Django, Laravel, and more. Human languages: English and Dutch.**
 - 📫 How to reach me: **You can contact me via my [LinkedIn](https://www.linkedin.com/in/mikecvermeer) or email me at mc.vermeer@hotmail.nl.**
 
 ## My Skills 🧠
 
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
