@@ -31,11 +31,25 @@ I'm a passionate **Software Engineer** with experience in **PHP, Laravel, C#, .N
 
 ## Featured Projects 💻
 
-### [Rusty-Bot](https://github.com/MikeCVermeer/Rusty-Bot)
+### [Binance SEO Intelligence Tool](https://www.binance.com) (Internal Project – Seeders)
+
+A custom internal analytics platform developed to support Binance’s global SEO strategy. The tool automated the collection and processing of large volumes of SEO data from [Ahrefs](https://www.ahrefs.com), transforming raw metrics into actionable insights about search performance, rankings, and competitive positioning.
+
+The application analyzed how Binance performed in Google Search compared to key competitors, identifying opportunities for content optimization, keyword targeting, and market growth. The generated insights were directly used to shape Binance’s SEO planning and strategy for 2026.
+
+This project demonstrates my ability to:
+- Design and build data-driven internal tools
+- Integrate and process external API data at scale
+- Transform complex datasets into structured, business-ready insights
+- Develop practical solutions that support strategic decision-making
+
+Technologies used: **Javascript, API integrations, data processing, automation, Vercel**
+
+### [Rusty-Bot](https://github.com/MikeCVermeer/Rusty-Bot) (Personal Project)
 
 **Rusty-Bot** is a **Python-based bot that integrates with the Rust+ API to enhance the Rust gameplay experience**. Built as a hobby project, it connects to the Rust companion API to provide **real-time notifications, in-game command interactions, and automated responses** for specific gameplay events. This project demonstrates my ability to **work with external APIs, process live data streams, and build practical automation tools in Python**. You can check out the repository [here](https://github.com/MikeCVermeer/Rusty-Bot).
 
-### [PredScout](https://github.com/MikeCVermeer/PredScout)
+### [PredScout](https://github.com/MikeCVermeer/PredScout) (Personal Project)
 
 **PredScout** is a **C# desktop application designed to provide real-time match insights and player statistics for the MOBA game Predecessor**. Built with **.NET and C#**, the tool analyzes live game data to display detailed information such as player ranks, win rates, KDA, and hero performance.
 
