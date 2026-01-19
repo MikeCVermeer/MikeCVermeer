@@ -33,7 +33,7 @@ I'm a passionate **Software Engineer** with experience in **PHP, Laravel, C#, .N
 
 ### [Rusty-Bot](https://github.com/MikeCVermeer/Rusty-Bot)
 
-**Rusty Bot** is a **Python-based tool designed to enhance the Rust gaming experience through real-time interaction** built with **Python, leveraging the Rust+ API**. This project demonstrates my ability to **interface with live server APIs, implement real-time data processing, and develop useful in-game automation tools**. You can check out the repository [here](https://github.com/MikeCVermeer/Rusty-Bot).
+**Rusty-Bot** is a **Python-based bot that integrates with the Rust+ API to enhance the Rust gameplay experience**. Built as a hobby project, it connects to the Rust companion API to provide **real-time notifications, in-game command interactions, and automated responses** for specific gameplay events. This project demonstrates my ability to **work with external APIs, process live data streams, and build practical automation tools in Python**. You can check out the repository [here](https://github.com/MikeCVermeer/Rusty-Bot).
 
 ### [PredScout](https://github.com/MikeCVermeer/PredScout)
 
