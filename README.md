@@ -35,7 +35,7 @@ I'm a passionate **Software Engineer** with experience in **PHP, Laravel, C#, .N
 
 A custom internal analytics platform developed to support Binance’s global SEO strategy. The tool automated the collection and processing of large volumes of SEO data from [Ahrefs](https://www.ahrefs.com), transforming raw metrics into actionable insights about search performance, rankings, and competitive positioning.
 
-The application analyzed how Binance performed in Google Search compared to key competitors, identifying opportunities for content optimization, keyword targeting, and market growth. The generated insights were directly used to shape Binance’s SEO planning and strategy for 2026.
+The application analyzed how [Binance](https://www.binance.com) performed in Google Search compared to key competitors, identifying opportunities for content optimization, keyword targeting, and market growth. The generated insights were directly used to shape Binance’s SEO planning and strategy for 2026.
 
 This project demonstrates my ability to:
 - Design and build data-driven internal tools
