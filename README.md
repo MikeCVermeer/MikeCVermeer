@@ -35,6 +35,12 @@ I'm a passionate **Software Engineer** with experience in **PHP, Laravel, C#, .N
 
 **Rusty Bot** is a **Python-based tool designed to enhance the Rust gaming experience through real-time interaction** built with **Python, leveraging the Rust+ API**. This project demonstrates my ability to **interface with live server APIs, implement real-time data processing, and develop useful in-game automation tools**. You can check out the repository [here](https://github.com/MikeCVermeer/Rusty-Bot).
 
+### [PredScout](https://github.com/MikeCVermeer/PredScout)
+
+**PredScout** is a **C# desktop application designed to provide real-time match insights and player statistics for the MOBA game Predecessor**. Built with **.NET and C#**, the tool analyzes live game data to display detailed information such as player ranks, win rates, KDA, and hero performance.
+
+This project demonstrates my ability to **work with external APIs, process live data, and build practical user-focused applications**. It highlights skills in **C# development, software architecture, and creating structured, maintainable desktop applications**. You can check out the repository [here](https://github.com/MikeCVermeer/PredScout).
+
 <!--
 ### [Project 2 Title](project_2_link)
 
