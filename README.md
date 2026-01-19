@@ -1,10 +1,10 @@
 # Hi there, I'm Mike Vermeer! 👋
 ## About Me 🚀
 
-I'm a passionate **Software Engineer** with experience in **Python, C#, .NET, PHP, React.js, Django, Laravel and more**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **Software Engineer** with experience in **PHP, Laravel, C#, .NET, React.js, Python, Django, Laravel and more**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **C# and .NET**
-- 🔭 Working on: **I'm currently engaged in the development of PredScout. An application designed to improve the user and gameplay experience of the popular MOBA game Predecessor.**
+- 🔭 Working on: **currently working at Seeders on internal tooling and automation solutions.**
 - 🌍 Languages: **Programming languages: C#, Python, .NET, PHP, React.js, Django, Laravel, and more. Human languages: English and Dutch.**
 - 📫 How to reach me: **You can contact me via my [LinkedIn](https://www.linkedin.com/in/mikecvermeer) or email me at mc.vermeer@hotmail.nl.**
 
