@@ -45,6 +45,14 @@ This project demonstrates my ability to:
 
 Technologies used: **Javascript, API integrations, data processing, automation, Vercel**
 
+### [NoSleep](https://github.com/MikeCVermeer/NoSleep) (Personal Project)
+
+**NoSleep** is a **native macOS menu-bar utility built with Swift, SwiftUI, AppKit, and IOKit power assertions**. It helps developers and power users keep their Mac awake while long-running work is active, such as AI agents, terminal commands, builds, local servers, downloads, and background jobs.
+
+The app focuses on a minimal native experience with timer presets, an until-specific-time session, optional display-awake behavior, battery and charger safety, notifications, launch-at-login support, diagnostics, and Homebrew installation. This project demonstrates my ability to **build polished native macOS tooling, work with system power-management APIs, design safety-focused UX, and ship a documented public release**. You can check out the repository [here](https://github.com/MikeCVermeer/NoSleep).
+
+Technologies used: **Swift, SwiftUI, AppKit, IOKit, UserDefaults, UserNotifications, ServiceManagement, Homebrew**
+
 ### [Rusty-Bot](https://github.com/MikeCVermeer/Rusty-Bot) (Personal Project)
 
 **Rusty-Bot** is a **Python-based bot that integrates with the Rust+ API to enhance the Rust gameplay experience**. Built as a hobby project, it connects to the Rust companion API to provide **real-time notifications, in-game command interactions, and automated responses** for specific gameplay events. This project demonstrates my ability to **work with external APIs, process live data streams, and build practical automation tools in Python**. You can check out the repository [here](https://github.com/MikeCVermeer/Rusty-Bot).
