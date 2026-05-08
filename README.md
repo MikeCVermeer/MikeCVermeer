@@ -53,6 +53,14 @@ The app focuses on a minimal native experience with timer presets, an until-spec
 
 Technologies used: **Swift, SwiftUI, AppKit, IOKit, UserDefaults, UserNotifications, ServiceManagement, Homebrew**
 
+### [EasyHotkeys](https://github.com/MikeCVermeer/EasyHotkeys) (Personal Project)
+
+**EasyHotkeys** is a **native macOS menu-bar utility built with Swift, SwiftUI, AppKit, CoreGraphics, and the macOS Keychain**. It lets users create local snippets and insert them into any active app with global hotkeys, while keeping the app small, fast, and focused on local-first productivity.
+
+The app includes a snippet manager, configurable launcher hotkey, duplicate-hotkey validation, Accessibility permission handling, typed insertion without clipboard use, optional fast insertion policy, launch-at-login support, and a special password snippet type backed by the macOS Keychain. This project demonstrates my ability to **build native macOS productivity tools, work with system permissions and global keyboard shortcuts, design safer local storage flows, and ship a documented public release through GitHub and Homebrew**. You can check out the repository [here](https://github.com/MikeCVermeer/EasyHotkeys).
+
+Technologies used: **Swift, SwiftUI, AppKit, CoreGraphics, Security/Keychain, Codable JSON, ServiceManagement, Homebrew**
+
 ### [Rusty-Bot](https://github.com/MikeCVermeer/Rusty-Bot) (Personal Project)
 
 **Rusty-Bot** is a **Python-based bot that integrates with the Rust+ API to enhance the Rust gameplay experience**. Built as a hobby project, it connects to the Rust companion API to provide **real-time notifications, in-game command interactions, and automated responses** for specific gameplay events. This project demonstrates my ability to **work with external APIs, process live data streams, and build practical automation tools in Python**. You can check out the repository [here](https://github.com/MikeCVermeer/Rusty-Bot).
